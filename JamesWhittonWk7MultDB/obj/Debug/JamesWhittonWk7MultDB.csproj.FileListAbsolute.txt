@@ -1,0 +1,12 @@
+C:\repos\JamesWhittonWk7MultDB\JamesWhittonWk7MultDB\obj\Debug\JamesWhittonWk7MultDB.csprojAssemblyReference.cache
+C:\repos\JamesWhittonWk7MultDB\JamesWhittonWk7MultDB\obj\Debug\JamesWhittonWk7MultDB.csproj.CoreCompileInputs.cache
+C:\repos\JamesWhittonWk7MultDB\JamesWhittonWk7MultDB\bin\Debug\JamesWhittonWk7MultDB.exe.config
+C:\repos\JamesWhittonWk7MultDB\JamesWhittonWk7MultDB\bin\Debug\JamesWhittonWk7MultDB.exe
+C:\repos\JamesWhittonWk7MultDB\JamesWhittonWk7MultDB\bin\Debug\JamesWhittonWk7MultDB.pdb
+C:\repos\JamesWhittonWk7MultDB\JamesWhittonWk7MultDB\bin\Debug\EntityFramework.dll
+C:\repos\JamesWhittonWk7MultDB\JamesWhittonWk7MultDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\repos\JamesWhittonWk7MultDB\JamesWhittonWk7MultDB\bin\Debug\EntityFramework.xml
+C:\repos\JamesWhittonWk7MultDB\JamesWhittonWk7MultDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\repos\JamesWhittonWk7MultDB\JamesWhittonWk7MultDB\obj\Debug\JamesWhittonWk7MultDB.csproj.CopyComplete
+C:\repos\JamesWhittonWk7MultDB\JamesWhittonWk7MultDB\obj\Debug\JamesWhittonWk7MultDB.exe
+C:\repos\JamesWhittonWk7MultDB\JamesWhittonWk7MultDB\obj\Debug\JamesWhittonWk7MultDB.pdb
